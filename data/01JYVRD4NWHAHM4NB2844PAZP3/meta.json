@@ -1,0 +1,17 @@
+{
+	"ulid": "01JYVRD4NWHAHM4NB2844PAZP3",
+	"minTime": 1751119879180,
+	"maxTime": 1751126400000,
+	"stats": {
+		"numSamples": 1170,
+		"numSeries": 39,
+		"numChunks": 39
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JYVRD4NWHAHM4NB2844PAZP3"
+		]
+	},
+	"version": 1
+}
